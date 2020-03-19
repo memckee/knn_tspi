@@ -6,7 +6,7 @@ The modifications to KNN used in this project account for time series complexity
 
 After using complexity-invariate distance, the model was evaluated according to six metrics - four regression metrics, two classification metrics. Please the KNN TSPI notebook for details and results.
 
-![Model Evaluation](Images\metric_graph.png)
+![Model Evaluation](/Images/metric_graph.png)
 
 ## References
 
